@@ -1,0 +1,30 @@
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.csprojAssemblyReference.cache
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.Form1.resources
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.Properties.Resources.resources
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.csproj.GenerateResource.cache
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.csproj.CoreCompileInputs.cache
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.exe
+C:\Users\00\source\repos\FC\FC\obj\Debug\Test00.pdb
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.exe.config
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.exe
+C:\Users\00\source\repos\FC\FC\bin\Debug\Test00.pdb
+C:\Users\00\source\repos\Test00\Test00\bin\Debug\Test00.exe.config
+C:\Users\00\source\repos\Test00\Test00\bin\Debug\Test00.exe
+C:\Users\00\source\repos\Test00\Test00\bin\Debug\Test00.pdb
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.Form1.resources
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.Properties.Resources.resources
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.csproj.GenerateResource.cache
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.csproj.CoreCompileInputs.cache
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.exe
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.pdb
+C:\Users\00\source\repos\Test00\Test00\obj\Debug\Test00.csprojAssemblyReference.cache
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\Test00.csprojAssemblyReference.cache
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\Test00.csproj.GenerateResource.cache
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\Test00.csproj.CoreCompileInputs.cache
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\F2.Form1.resources
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\F2.Properties.Resources.resources
+F:\Fatemeh Sadeqi\آگاهانه\Test00\bin\Debug\F2.exe.config
+F:\Fatemeh Sadeqi\آگاهانه\Test00\bin\Debug\F2.exe
+F:\Fatemeh Sadeqi\آگاهانه\Test00\bin\Debug\F2.pdb
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\F2.exe
+F:\Fatemeh Sadeqi\آگاهانه\Test00\obj\Debug\F2.pdb

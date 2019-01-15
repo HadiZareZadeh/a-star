@@ -1,0 +1,10 @@
+F:\Fatemeh Sadeqi\آگاهانه\F2\bin\Debug\F2.exe.config
+F:\Fatemeh Sadeqi\آگاهانه\F2\bin\Debug\F2.exe
+F:\Fatemeh Sadeqi\آگاهانه\F2\bin\Debug\F2.pdb
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.csprojAssemblyReference.cache
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.Form1.resources
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.Properties.Resources.resources
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.csproj.GenerateResource.cache
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.csproj.CoreCompileInputs.cache
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.exe
+F:\Fatemeh Sadeqi\آگاهانه\F2\obj\Debug\F2.pdb
